@@ -78,8 +78,10 @@ Examples:
 ```
 dsa-python-bootcamp/
 │
-├── notes/                   # Detailed explanations for each topic
-├── code/                    # Python implementations
+Topic_Name/
+├── notes/
+└── code/  
+...
 └── README.md
 
 ```
@@ -101,16 +103,19 @@ Each folder inside **notes/** and **code/** mirrors the same structure (arrays, 
 I’ll update this as I move through the course:
 
 - [ ]  Big O Notation
-- [ ]  Arrays
-- [ ]  Linked Lists
-- [ ]  Stacks & Queues
+- [ ]  Essential Concepts - I
+- [ ]  Data Structure - Introduction
+- [ ]  Array
+- [ ]  Linked List
+- [ ]  Stack and Queue
 - [ ]  Hash Tables
 - [ ]  Trees
-- [ ]  Searching
-- [ ]  Sorting
 - [ ]  Heaps
-- [ ]  Graphs
-- [ ]  Interview Questions
+- [ ]  Trie
+- [ ]  Graph
+- [ ]  Essential Concepts - II
+- [ ]  Algorithms
+- [ ]  Interview questions 
 
 ---
 
