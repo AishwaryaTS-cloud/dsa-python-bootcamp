@@ -103,7 +103,7 @@ Each folder inside **notes/** and **code/** mirrors the same structure (arrays, 
 I’ll update this as I move through the course:
 
 - [x]  Big O Notation
-- [ ]  Essential Concepts - I
+- [x]  Essential Concepts - I
 - [ ]  Data Structure - Introduction
 - [ ]  Array
 - [ ]  Linked List
