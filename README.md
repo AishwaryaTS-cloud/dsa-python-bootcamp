@@ -102,7 +102,7 @@ Each folder inside **notes/** and **code/** mirrors the same structure (arrays, 
 
 I’ll update this as I move through the course:
 
-- [ ]  Big O Notation
+- [x]  Big O Notation
 - [ ]  Essential Concepts - I
 - [ ]  Data Structure - Introduction
 - [ ]  Array
