@@ -29,14 +29,14 @@ A good solution generally has two qualities:
   * **Space Complexity** → How much extra memory it needs.
 
 Good code is readable **and** scalable.
-![alt text](image.png)
+![diagram](./images/image.png)
 
 ## 4. Why Time & Space Complexity?
 
 * **Time Complexity** tells us how quickly an algorithm grows with input size.
 * **Space Complexity** tells us how much extra memory it needs.
 * Faster algorithms and memory‑efficient ones are preferred.
-![alt text](image-1.png)
+![diagram](./images/image-1.png)
 
 ## 5. Enter Big‑O Notation
 
@@ -51,7 +51,7 @@ Good code is readable **and** scalable.
   * Horrible
 
 It’s essentially a standard scale for describing performance.
-![alt text](image-2.png)
+![diagram](./images/image-2.png)
 
 ## 6. The Goal of This Lecture
 
