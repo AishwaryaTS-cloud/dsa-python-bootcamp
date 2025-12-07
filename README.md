@@ -107,7 +107,7 @@ I’ll update this as I move through the course:
 - [x]  Data Structure - Introduction
 - [x]  Array
 - [x]  Linked List
-- [ ]  Stack and Queue
+- [x]  Stack and Queue
 - [ ]  Hash Tables
 - [ ]  Trees
 - [ ]  Heaps
