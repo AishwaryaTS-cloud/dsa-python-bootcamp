@@ -106,7 +106,7 @@ I’ll update this as I move through the course:
 - [x]  Essential Concepts - I
 - [x]  Data Structure - Introduction
 - [x]  Array
-- [ ]  Linked List
+- [x]  Linked List
 - [ ]  Stack and Queue
 - [ ]  Hash Tables
 - [ ]  Trees
