@@ -105,7 +105,7 @@ I’ll update this as I move through the course:
 - [x]  Big O Notation
 - [x]  Essential Concepts - I
 - [x]  Data Structure - Introduction
-- [ ]  Array
+- [x]  Array
 - [ ]  Linked List
 - [ ]  Stack and Queue
 - [ ]  Hash Tables
