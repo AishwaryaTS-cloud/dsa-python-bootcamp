@@ -108,8 +108,8 @@ I’ll update this as I move through the course:
 - [x]  Array
 - [x]  Linked List
 - [x]  Stack and Queue
-- [ ]  Hash Tables
-- [ ]  Trees
+- [x]  Hash Tables
+- [x]  Trees
 - [ ]  Heaps
 - [ ]  Trie
 - [ ]  Graph
