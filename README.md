@@ -111,7 +111,7 @@ I’ll update this as I move through the course:
 - [x]  Hash Tables
 - [x]  Trees
 - [x]  Heaps
-- [ ]  Trie
+- [x]  Trie
 - [ ]  Graph
 - [ ]  Essential Concepts - II
 - [ ]  Algorithms
