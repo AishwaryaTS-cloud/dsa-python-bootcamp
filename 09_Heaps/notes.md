@@ -88,3 +88,4 @@ Much faster than O(n) for deletion in normal queue.
 - Each deletion gives the next largest element.
 - Priority queue uses heap so highest-priority elements are always extracted efficiently.
 - Heap operations stay within **O(log n)**, making them suitable when priority-based processing is required.
+

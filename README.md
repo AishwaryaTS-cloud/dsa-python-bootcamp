@@ -110,7 +110,7 @@ I’ll update this as I move through the course:
 - [x]  Stack and Queue
 - [x]  Hash Tables
 - [x]  Trees
-- [ ]  Heaps
+- [x]  Heaps
 - [ ]  Trie
 - [ ]  Graph
 - [ ]  Essential Concepts - II
