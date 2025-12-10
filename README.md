@@ -112,8 +112,7 @@ I’ll update this as I move through the course:
 - [x]  Trees
 - [x]  Heaps
 - [x]  Trie
-- [ ]  Graph
-- [ ]  Essential Concepts - II
+- [x]  Graph
 - [ ]  Algorithms
 - [ ]  Interview questions 
 
